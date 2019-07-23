@@ -38,4 +38,3 @@ while(True):
         continue
     elif(per == 'no'):
         break
-
