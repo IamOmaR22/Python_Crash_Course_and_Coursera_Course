@@ -1,5 +1,5 @@
-from MedicineGuidline2.MedicineOperation import *
-from MedicineGuidline2.Company import *
+from MedicineGuidline.MedicineOperation import *
+from MedicineGuidline.Company import *
 medicine=input("Enter your medicine name :")
 medicine=medicine.lower()
 
