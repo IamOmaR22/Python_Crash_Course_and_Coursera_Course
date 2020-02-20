@@ -1,4 +1,6 @@
+
 class ourgalaxy():
+
     def __init__(self,planet):
         self.planet=planet
     
@@ -31,10 +33,11 @@ class ourgalaxy():
             print("There is no planet in the galaxy that  you entered")
 
 class planetofgalaxy(ourgalaxy):
+
     def __init__(self,planet):
         self.planet=planet
         super().__init__(self.planet)
 
 
     def planetname(self):
-        print("You choose :" + self.planet)
+        print("You choose : " + self.planet)
