@@ -1,3 +1,4 @@
+
 class paracetamol():
     medicine = ['napa', 'xcel', 'paradote', 'pyralgin']
     def __init__(self,Nmedicine):
