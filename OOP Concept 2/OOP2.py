@@ -13,11 +13,11 @@ while (True):
 
     re=obj.alloperation()
     for i in range(0,len(re)):
-        if (i is 0):
+        if (i == 0):
             print("Addition is :",re[i])
-        elif(i is 1):
+        elif(i == 1):
             print("Subtraction is :",re[i])
-        elif(i is 2):
+        elif(i == 2):
             print("Multiplication is :", re[i])
 
 
