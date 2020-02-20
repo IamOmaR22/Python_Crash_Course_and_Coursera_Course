@@ -8,14 +8,16 @@ class operation():
         self.num2 = num2
 
     def alloperation(self):
-        resultm=self.num1*self.num2
+        resulta = self.num1 + self.num2
+        results = self.num1 - self.num2
+        resultm = self.num1 * self.num2
+
         try:
             resultd = self.num1 / self.num2
             print("Divition is:", resultd)
         except:
             print("Divide by zero is not possible!")
-        results = self.num1 - self.num2
-        resulta = self.num1 + self.num2
+
 
         self.lis.append(resulta)
         self.lis.append(results)
