@@ -20,16 +20,16 @@ while(True):
     addobj=addition(num1,num2)
     divobj=divition(num1,num2)
 
-    if (op is '*'):
+    if (op == '*'):
         result=mulobj.mulfunction()
         print("your result is :",result)
-    elif (op is '-'):
+    elif (op == '-'):
         result=subobj.subfunction()
         print("Subtraction is:", result)
-    elif(op is '+'):
+    elif(op == '+'):
         result=addobj.addfunction()
         print("Addition is:", result)
-    elif(op is '/'):
+    elif(op == '/'):
         result=divobj.divfunction()
 
     per=input("Do you want to run again?\nEnter Yes or No.")
