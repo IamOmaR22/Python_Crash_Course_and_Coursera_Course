@@ -49,4 +49,9 @@
 ### OOP 3
 ## MedicineGuidline Project By Python OOPS Concepts
 
+## How To Run Snake Game
+1. pip install windows-curses
+2. python snake.py  (On Shell/cmd)
+3. Then Enjoy The Game.
+
 ## All the examples are useful examples
