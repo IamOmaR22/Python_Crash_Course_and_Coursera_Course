@@ -54,4 +54,9 @@
 2. python snake.py  (On Shell/cmd)
 3. Then Enjoy The Game.
 
+## How To Run Countdown Timer
+1. python countdown.py  (On Shell/cmd)
+2. Set The Time After Run.
+3. Enjoy It.
+
 ## All the examples are useful examples
