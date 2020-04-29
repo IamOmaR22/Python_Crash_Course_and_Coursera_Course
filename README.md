@@ -49,6 +49,18 @@
 ### OOP 3
 ## MedicineGuidline Project By Python OOPS Concepts
 
+## How To Run Text to Speech (Online Version)
+1. pip install gTTS  (On Shell/cmd)
+2. python P_to_P_Online.py  (On Shell/cmd)
+3. Then It Will Generate a file.mp3 File.
+4. Enjoy It.
+
+## How To Run Text to Speech (Offline Version)
+1. python -m pip install pywin32   (On Shell/cmd)
+2. python T_to_P_Offline.py  (On Shell/cmd)
+3. Then You Can Directly read from text without saving any mp3 file.
+4. Enjoy It.
+
 ## How To Run Snake Game
 1. pip install windows-curses
 2. python snake.py  (On Shell/cmd)
