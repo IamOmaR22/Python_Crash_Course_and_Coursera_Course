@@ -1,4 +1,4 @@
-# Python-Basic-Programs
+# Python Basic Programs and This repository also contains a Coursera Course (Programming_for_Everybody--Getting_Started_with_Python).
 # I followed a book which name was: Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming.
 - You can also follow this one. Download Link: http://www.allitebooks.org/python-crash-course-2nd-edition/
 ## Table of contents
@@ -50,6 +50,18 @@
 ### OOP 2
 ### OOP 3
 ## MedicineGuidline Project By Python OOPS Concepts
+
+## Programming for Everybody (Getting Started with Python)
+Assignments and Quizes Solution:
+```
+Week 1
+Week 2
+Week 3
+Week 4
+Week 5
+Week 6
+Week 7
+```
 
 ## How To Run Text to Speech (Online Version)
 1. pip install gTTS  (On Shell/cmd)
