@@ -4,6 +4,7 @@
 ## Table of contents
 ### Chapter 1-2 Intro
 ### Chapter 3: Introdicing Lists
+```
 1. Adding Elements to a List
 2. Insert Elements into a List
 3. Removing Elements from a List
@@ -13,6 +14,7 @@
 7. Sorting a List Temporarily with the sorted() Function
 8. Printing a List in Reverse Order
 9. Finding the Length of a List
+```
 
 ### Chapter 4: Working With Lists
 1. Looping Through an Entire List
