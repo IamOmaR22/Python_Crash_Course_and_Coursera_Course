@@ -17,6 +17,7 @@
 ```
 
 ### Chapter 4: Working With Lists
+```
 1. Looping Through an Entire List
 2. Doing Something After a for Loop
 3. Making Numerical Lists (Using the range() Function)
@@ -24,14 +25,18 @@
 5. Tuples
 6. Looping Through All Values in a Tuple
 7. Writing over a Tuple
+```
 
 ### Chapter 5: If Statements
+```
 1. A Simple Example
 2. Testing Multiple Conditions
 3. Using Multiple Lists
 4. Checking for Special Items
+```
 
 ### Chapter 6: Dictionaries
+```
 1. A Simple Dictionary (Accessing Values in a Dictionary)
 2. Dictionary
 3. Adding New Key-Value Pairs
@@ -47,12 +52,14 @@
 13. A List in a Dictionary
 14. A Dictionary in a Dictionary (** Key must be same **)
 15. A Dictionary in a Dictionary (** Key must be same **) Example: 2
-
+```
+## Object Oriented
+```
 ### OOP 1
 ### OOP 2
 ### OOP 3
 ## MedicineGuidline Project By Python OOPS Concepts
-
+```
 ## Programming for Everybody (Getting Started with Python)
 Assignments and Quizes Solution:
 ```
@@ -66,25 +73,33 @@ Week 7
 ```
 
 ## How To Run Text to Speech (Online Version)
+```
 1. pip install gTTS  (On Shell/cmd)
 2. python P_to_P_Online.py  (On Shell/cmd)
 3. Then It Will Generate a file.mp3 File.
 4. Enjoy It.
+```
 
 ## How To Run Text to Speech (Offline Version)
+```
 1. python -m pip install pywin32   (On Shell/cmd)
 2. python T_to_P_Offline.py  (On Shell/cmd)
 3. Then You Can Directly read from text without saving any mp3 file.
 4. Enjoy It.
+```
 
 ## How To Run Snake Game
+```
 1. pip install windows-curses
 2. python snake.py  (On Shell/cmd)
 3. Then Enjoy The Game.
+```
 
 ## How To Run Countdown Timer
+```
 1. python countdown.py  (On Shell/cmd)
 2. Set The Time After Run.
 3. Enjoy It.
+```
 
-## All the examples are useful examples
+## All the examples are useful examples.
