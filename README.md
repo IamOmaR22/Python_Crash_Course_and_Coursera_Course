@@ -55,10 +55,10 @@
 ```
 ## Object Oriented
 ```
-### OOP 1
-### OOP 2
-### OOP 3
-## MedicineGuidline Project By Python OOPS Concepts
+OOP 1
+OOP 2
+OOP 3
+MedicineGuidline Project By Python OOPS Concepts
 ```
 ## Programming for Everybody (Getting Started with Python)
 Assignments and Quizes Solution:
