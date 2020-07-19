@@ -1,0 +1,40 @@
+Week 6 Chapter 4 Quiz Solutions
+
+Q-1. Which Python keyword indicates the start of a function definition?
+Ans-  def
+
+
+Q-2. In Python, how do you indicate the end of the block of code that makes up the function?
+Ans-  You de-indent a line of code to the same indent level as the def keyword
+
+
+Q-3.  In Python what is the raw_input() feature best described as?
+Ans-  A built-in function
+
+
+Q-4.  What does the following code print out? def thing(): print 'Hello'; print 'There'
+Ans- There
+
+
+Q-5. In the following Python code, which of the following is an "argument" to a function? x = 'banana'; y = max(x); print y
+Ans- x
+
+
+Q-6.  What will the following Python code print out? def func(x) : print x; func(10); func(20)
+Ans-  10, 20
+
+
+Q-7.  Which line of the following Python program is useless? def stuff(): print 'Hello' return print 'World' stuff()
+Ans-  print 'World'
+
+
+Q-8. -What will the following Python program print out? def greet(lang): if lang == 'es': return 'Hola' elif lang == 'fr': return 'Bonjour' else: return 'Hello' print greet('fr'),'Michael'
+Ans-  Bonjour Michael
+
+
+Q-9.  What does the following Python code print out? (Note that this is a bit of a trick question and the code has what many would consider to be a flaw/bug - so read carefully). def addtwo(a, b): added = a + b return a; x = addtwo(2, 7); print x
+Ans-  2
+
+
+Q-10.  What is the most important benefit of writing your own functions?
+Ans-  Avoiding writing the same non-trivial code more than once in your program
