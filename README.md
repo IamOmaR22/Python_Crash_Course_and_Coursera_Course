@@ -80,6 +80,13 @@ Week 7
 4. Enjoy It.
 ```
 
+## PDF to AUDIO
+```
+pip install pyttsx3   (On Shell/cmd)
+pip install PyPDF2    (On Shell/cmd)
+python PDF_to_Audio_Book.py  (On Shell/cmd)
+```
+
 ## How To Run Text to Speech (Offline Version)
 ```
 1. python -m pip install pywin32   (On Shell/cmd)
